@@ -138,7 +138,7 @@ second_diagonal(game)
 
 
 
-
+# Tips :
 #While calling the function in any where in the code. The position of arguments doesn't matter only if all the arguments are positional.
 #First argument in the function declaring section can be called at last in the calling section.
 #USe global keyword to make a variable declared inside a function global so that it could be accessed from any part of the code
